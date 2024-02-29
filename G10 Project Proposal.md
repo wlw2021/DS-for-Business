@@ -1,5 +1,9 @@
 # G10 Project Proposal
 
+> Luwei Wang (lw3511) / Pallabi Chandra (pc3131) / 
+>
+> Matias Gutierrez (meg10001) / Sunny Shah (sbs8673)
+
 ## Movie Recommendation System
 
 ### Business analysis
